@@ -1,0 +1,149 @@
+[NCM_NTLNK]<8/23 17:42:09.805 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:42:09.805 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_DAEMON]<8/23 17:42:09.824 -4><src/net_cm_daemon.c:6177> Error-ncm_main_timer_fired(): Failed to broadcast packets from snap0 interface
+[NCM_DAEMON]<8/23 17:42:09.903 -4><src/net_cm_daemon.c:8050> ncm_handle_ping2srv_success(): No Changes for interface br0, Notify requesters
+[NCM_BRIDGE]<8/23 17:42:09.903 -4><src/ncm_bridge/net_cm_bridge_notify.c:870> ncm_bridge_send_msg_to_req(): Bridge prime interface index is 0
+[NCM_DAEMON]<8/23 17:42:43.703 -4><src/net_cm_daemon.c:4777> ncm_recv_brdcon_msg(): Network TRA requests 'Getting Statistics'
+[NCM_IFSTAT]<8/23 17:42:43.703 -4><src/net_cm_ifstat_thread.c:687> ifstat(0): Interface Name: stbeth1, Index 4, Type 0x00000001
+[NCM_IFSTAT]<8/23 17:42:43.704 -4><src/net_cm_ifstat_thread.c:330> ncm_send_ifstat_msg: Sending Statistics result to Client (0x80405120),  result=0
+[NCM_DAEMON]<8/23 17:42:43.954 -4><src/net_cm_daemon.c:4777> ncm_recv_brdcon_msg(): Network TRA requests 'Getting Statistics'
+[NCM_IFSTAT]<8/23 17:42:43.954 -4><src/net_cm_ifstat_thread.c:687> ifstat(0): Interface Name: wl0, Index 9, Type 0x00000008
+[NCM_IFSTAT]<8/23 17:42:43.954 -4><src/net_cm_ifstat_thread.c:330> ncm_send_ifstat_msg: Sending Statistics result to Client (0x80405120),  result=0
+[NCM_DAEMON]<8/23 17:42:43.204 -4><src/net_cm_daemon.c:4777> ncm_recv_brdcon_msg(): Network TRA requests 'Getting Statistics'
+[NCM_IFSTAT]<8/23 17:42:43.204 -4><src/net_cm_ifstat_thread.c:687> ifstat(0): Interface Name: stbmoca0, Index 5, Type 0x00000010
+[NCM_IFSTAT]<8/23 17:42:43.204 -4><src/net_cm_ifstat_thread.c:330> ncm_send_ifstat_msg: Sending Statistics result to Client (0x80405120),  result=0
+[NCM_DAEMON]<8/23 17:42:46.803 -4><src/net_cm_daemon.c:6017> Main NCM Timer Fired
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <lo>; MAC <00:00:00:00:00:00>
+[NCM_DSBL_DUP]<8/23 17:42:46.803 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <lo>
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <bcmeth0>; MAC <AE:89:04:C9:B0:DB>
+[NCM_DSBL_DUP]<8/23 17:42:46.803 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <bcmeth0>
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <stbeth0>; MAC <4C:82:CF:FE:03:50>
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <stbeth1>; MAC <4C:82:CF:FE:03:4F>
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <stbmoca0>; MAC <4C:82:CF:FE:03:4E>
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <hplus0>; MAC <88:B6:EE:20:30:60>
+[NCM_DSBL_DUP]<8/23 17:42:46.803 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <hplus0>
+[NCM_UPDATES]<8/23 17:42:46.803 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <br0>; MAC <4C:82:CF:FE:03:4C>
+[NCM_DSBL_DUP]<8/23 17:42:46.803 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <br0>
+[NCM_WIFI]<8/23 17:42:46.804 -4><src/ncm_wifi/net_cm_wifi_internal.c:604> ncm_is_internal_wifi-wl0 is internal wifi
+[NCM_WIFI]<8/23 17:42:46.804 -4><src/ncm_wifi/net_cm_wifi_internal.c:676> configure internal wifi module
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <wl0>; MAC <4C:82:CF:FE:03:4C>
+[NCM_WIFI]<8/23 17:42:46.804 -4><src/ncm_wifi/net_cm_wifi_internal.c:604> ncm_is_internal_wifi-wl0 is internal wifi
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <lxc_br0>; MAC <00:24:AF:00:34:23>
+[NCM_DSBL_DUP]<8/23 17:42:46.804 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <lxc_br0>
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <dummy1>; MAC <82:8A:C1:2E:00:61>
+[NCM_DSBL_DUP]<8/23 17:42:46.804 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <dummy1>
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <dummy0>; MAC <22:CC:6E:5E:15:3F>
+[NCM_DSBL_DUP]<8/23 17:42:46.804 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <dummy0>
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:1401> ncm_append_if(): Adding new Interface <cont1>; MAC <00:24:AF:00:34:23>
+[NCM_DSBL_DUP]<8/23 17:42:46.804 -4><src/net_cm_dsbl_dup_conn.c:185> ncm_is_secondary_if_disabled(): Not interested, interface <cont1>
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <lo> Old Flags 0x00010049, New Flags 0x00010049
+[NCM_UPDATES]<8/23 17:42:46.804 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <bcmeth0> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.805 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <stbeth0> Old Flags 0x00001003, New Flags 0x00001003
+[NCM_UPDATES]<8/23 17:42:46.805 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <stbeth1> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.806 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <stbmoca0> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.806 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <hplus0> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.807 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <br0> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.821 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <wl0> Old Flags 0x00011243, New Flags 0x00011243
+[NCM_UPDATES]<8/23 17:42:46.821 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <lxc_br0> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.822 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <dummy1> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.822 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <dummy0> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_UPDATES]<8/23 17:42:46.822 -4><src/net_cm_rt_update.c:2977> ncm_update_flags(): <cont1> Old Flags 0x00011043, New Flags 0x00011043
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:4234> ncm_send_notify(): Message list is EMPTY
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:6674> ncm_bridge_get_if_name_list: put interface name wl0 to list
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:6674> ncm_bridge_get_if_name_list: put interface name stbmoca0 to list
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:6674> ncm_bridge_get_if_name_list: put interface name stbeth1 to list
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:6674> ncm_bridge_get_if_name_list: put interface name hplus0 to list
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:7747> ncm_bridge_kernel_get_ports(): Interface wl0 is the bridge port
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:7747> ncm_bridge_kernel_get_ports(): Interface stbeth1 is the bridge port
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:7747> ncm_bridge_kernel_get_ports(): Interface hplus0 is the bridge port
+[NCM_BRIDGE]<8/23 17:42:46.823 -4><src/ncm_bridge/net_cm_bridge.c:7747> ncm_bridge_kernel_get_ports(): Interface stbmoca0 is the bridge port
+[NCM_SYNC_KERNEL]<8/23 17:42:46.823 -4><src/net_cm_sync_kernel.c:799> ncm_sync_kernel_bridge(): Bridge CB has the port wl0
+[NCM_SYNC_KERNEL]<8/23 17:42:46.823 -4><src/net_cm_sync_kernel.c:799> ncm_sync_kernel_bridge(): Bridge CB has the port stbeth1
+[NCM_SYNC_KERNEL]<8/23 17:42:46.823 -4><src/net_cm_sync_kernel.c:799> ncm_sync_kernel_bridge(): Bridge CB has the port hplus0
+[NCM_SYNC_KERNEL]<8/23 17:42:46.823 -4><src/net_cm_sync_kernel.c:799> ncm_sync_kernel_bridge(): Bridge CB has the port stbmoca0
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5490> ncm_recheck_sngl_conn(): Interface bcmeth0 Not Connected(-1)
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5490> ncm_recheck_sngl_conn(): Interface stbeth0 Not Connected(-1)
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:10321> ncm_check_sngl_conn(): NO CARRIER stbeth0, Notify Requester(s) 
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5573> ncm_recheck_sngl_conn(): Interface stbeth0 No Link Level 1
+[NCM_DHCP]<8/23 17:42:46.823 -4><src/ncm_dhcp/net_cm_dhcp_client.c:296> ncm_check_dish_ip_mode(): stbeth0 (0x80402378) is not plugged in
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5452> ncm_recheck_sngl_conn(): Interface br0 Connected
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5490> ncm_recheck_sngl_conn(): Interface lxc_br0 Not Connected(0)
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < lxc_br0 > plugin status 2
+[NCM_AUTOIP]<8/23 17:42:46.823 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for lxc_br0
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <lxc_br0> interface
+[NCM_ARP]<8/23 17:42:46.823 -4><src/net_cm_arp.c:383> ncm_arp_send_request(): Arping for 192.168.1.1
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5490> ncm_recheck_sngl_conn(): Interface cont1 Not Connected(0)
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < cont1 > plugin status 2
+[NCM_AUTOIP]<8/23 17:42:46.823 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for cont1
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <cont1> interface
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5490> ncm_recheck_sngl_conn(): Interface dummy1 Not Connected(0)
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < dummy1 > plugin status 2
+[NCM_AUTOIP]<8/23 17:42:46.823 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for dummy1
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <dummy1> interface
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5490> ncm_recheck_sngl_conn(): Interface dummy0 Not Connected(0)
+[NCM_DAEMON]<8/23 17:42:46.823 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < dummy0 > plugin status 2
+[NCM_AUTOIP]<8/23 17:42:46.823 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for dummy0
+[NCM_DAEMON]<8/23 17:42:46.824 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <dummy0> interface
+[NCM_BRIDGE]<8/23 17:42:46.824 -4><src/ncm_bridge/net_cm_bridge.c:7040> Check for advanced bridging. DO NOT update bridge.
+[NCM_BRIDGE]<8/23 17:42:46.824 -4><src/ncm_bridge/net_cm_bridge.c:1107> ncm_bridge_get_cb_init_step(): Control block bridge init step is 5
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:263> ncm_arp_packet_get_reply(): Destin. MAC: 4C:82:CF:FE:03:4C
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:267> ncm_arp_packet_get_reply(): Source MAC : 1C:64:99:DF:2F:44
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:269> ncm_arp_packet_get_reply(): Packet Type: 0806
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:274> ncm_arp_packet_get_reply(): ARP_OPCODE : 2
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:275> ncm_arp_packet_get_reply(): Sender IP  : 192.168.1.1
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:278> ncm_arp_packet_get_reply(): Sender MAC : 1C:64:99:DF:2F:44
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:280> ncm_arp_packet_get_reply(): Target IP  : 192.168.1.107
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:283> ncm_arp_packet_get_reply(): Target MAC : 4C:82:CF:FE:03:4C
+[NCM_ARP]<8/23 17:42:46.825 -4><src/net_cm_arp.c:1150> ncm_arp_request(): Address 192.168.1.1 Resolved
+[NCM_NTLNK]<8/23 17:42:46.827 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:42:46.827 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:42:46.828 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:42:46.829 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:42:46.829 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_DAEMON]<8/23 17:42:46.848 -4><src/net_cm_daemon.c:6177> Error-ncm_main_timer_fired(): Failed to broadcast packets from snap0 interface
+[NCM_DAEMON]<8/23 17:42:46.925 -4><src/net_cm_daemon.c:8050> ncm_handle_ping2srv_success(): No Changes for interface br0, Notify requesters
+[NCM_BRIDGE]<8/23 17:42:46.925 -4><src/ncm_bridge/net_cm_bridge_notify.c:870> ncm_bridge_send_msg_to_req(): Bridge prime interface index is 0
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:6017> Main NCM Timer Fired
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:10321> ncm_check_sngl_conn(): NO CARRIER stbeth0, Notify Requester(s) 
+[NCM_DHCP]<8/23 17:43:24.806 -4><src/ncm_dhcp/net_cm_dhcp_client.c:296> ncm_check_dish_ip_mode(): stbeth0 (0x80402378) is not plugged in
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < lxc_br0 > plugin status 2
+[NCM_AUTOIP]<8/23 17:43:24.806 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for lxc_br0
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <lxc_br0> interface
+[NCM_ARP]<8/23 17:43:24.806 -4><src/net_cm_arp.c:383> ncm_arp_send_request(): Arping for 192.168.1.1
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < cont1 > plugin status 2
+[NCM_AUTOIP]<8/23 17:43:24.806 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for cont1
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <cont1> interface
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < dummy1 > plugin status 2
+[NCM_AUTOIP]<8/23 17:43:24.806 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for dummy1
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <dummy1> interface
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:5972> ncm_interface_get_plugin_status_by_name(): < dummy0 > plugin status 2
+[NCM_AUTOIP]<8/23 17:43:24.806 -4><src/net_cm_autoIP.c:1141> ncm_start_ipv4_autoip_worker_thread(): skip AUTO_IP for dummy0
+[NCM_DAEMON]<8/23 17:43:24.806 -4><src/net_cm_daemon.c:10271> ncm_check_sngl_conn(): MAC Select thread running on <dummy0> interface
+[NCM_BRIDGE]<8/23 17:43:24.806 -4><src/ncm_bridge/net_cm_bridge.c:7040> Check for advanced bridging. DO NOT update bridge.
+[NCM_BRIDGE]<8/23 17:43:24.806 -4><src/ncm_bridge/net_cm_bridge.c:1107> ncm_bridge_get_cb_init_step(): Control block bridge init step is 5
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:263> ncm_arp_packet_get_reply(): Destin. MAC: 4C:82:CF:FE:03:4C
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:267> ncm_arp_packet_get_reply(): Source MAC : 1C:64:99:DF:2F:44
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:269> ncm_arp_packet_get_reply(): Packet Type: 0806
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:274> ncm_arp_packet_get_reply(): ARP_OPCODE : 2
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:275> ncm_arp_packet_get_reply(): Sender IP  : 192.168.1.1
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:278> ncm_arp_packet_get_reply(): Sender MAC : 1C:64:99:DF:2F:44
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:280> ncm_arp_packet_get_reply(): Target IP  : 192.168.1.107
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:283> ncm_arp_packet_get_reply(): Target MAC : 4C:82:CF:FE:03:4C
+[NCM_ARP]<8/23 17:43:24.808 -4><src/net_cm_arp.c:1150> ncm_arp_request(): Address 192.168.1.1 Resolved
+[NCM_NTLNK]<8/23 17:43:24.809 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:43:24.809 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:43:24.809 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:43:24.809 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_NTLNK]<8/23 17:43:24.810 -4><src/ncm_netlink/net_cm_ntlnk_sockstat.c:327> ncm_ntlnk_diag_msg_handler(): An estblished socket on the 169.254.95.2 exist
+[NCM_DAEMON]<8/23 17:43:24.823 -4><src/net_cm_daemon.c:6177> Error-ncm_main_timer_fired(): Failed to broadcast packets from snap0 interface
+[NCM_DAEMON]<8/23 17:43:24.908 -4><src/net_cm_daemon.c:8050> ncm_handle_ping2srv_success(): No Changes for interface br0, Notify requesters
+[NCM_BRIDGE]<8/23 17:43:24.908 -4><src/ncm_bridge/net_cm_bridge_notify.c:870> ncm_bridge_send_msg_to_req(): Bridge prime interface index is 0
+[NCM_DAEMON]<8/23 17:43:44.767 -4><src/net_cm_daemon.c:4777> ncm_recv_brdcon_msg(): Network TRA requests 'Getting Statistics'
+[NCM_IFSTAT]<8/23 17:43:44.767 -4><src/net_cm_ifstat_thread.c:687> ifstat(0): Interface Name: stbeth1, Index 4, Type 0x00000001
+[NCM_IFSTAT]<8/23 17:43:44.767 -4><src/net_cm_ifstat_thread.c:330> ncm_send_ifstat_msg: Sending Statistics result to Client (0x80405120),  result=0
+[NCM_DAEMON]<8/23 17:43:44.017 -4><src/net_cm_daemon.c:4777> ncm_recv_brdcon_msg(): Network TRA requests 'Getting Statistics'
+[NCM_IFSTAT]<8/23 17:43:44.017 -4><src/net_cm_ifstat_thread.c:687> ifstat(0): Interface Name: wl0, Index 9, Type 0x00000008
+[NCM_IFSTAT]<8/23 17:43:44.018 -4><src/net_cm_ifstat_thread.c:330> ncm_send_ifstat_msg: Sending Statistics result to Client (0x80405120),  result=0
+[NCM_DAEMON]<8/23 17:43:44.267 -4><src/net_cm_daemon.c:4777> ncm_recv_brdcon_msg(): Network TRA requests 'Getting Statistics'
+[NCM_IFSTAT]<8/23 17:43:44.267 -4><src/net_cm_ifstat_thread.c:687> ifstat(0): Interface Name: stbmoca0, Index 5, Type 0x00000010
+[NCM_IFSTAT]<8/23 17:43:44.268 -4><src/net_cm_ifstat_thread.c:330> ncm_send_ifstat_msg: Sending Statistics result to Client (0x80405120),  result=0

@@ -38,12 +38,12 @@ def copy_matching_folders(ids, source_folder='/ccshare/logs/smplogs', destinatio
                 for filename in files:
                     if filename.endswith(('input_mgr.0.gz', 'NetConMgr.1.gz', 'NetConMgr.0.gz')):
                         file_src_path = os.path.join(root, filename)
-                        file_dest_path = os.path.join(temp_dir, filename)
+                        file_dest_path = os.path.join(temp_dir, filename)  # Save directly under temp_dir
                         shutil.copy(file_src_path, file_dest_path)
 
             # Create a .gz archive for the folder
             try:
-                shutil.make_archive(dest_path, 'gztar', temp_dir)
+                shutil.make_archive(dest_path, 'tar', temp_dir)
                 print(f"Archived {folder} to {dest_path}.gz")
             except Exception as e:
                 print(f"Failed to archive {folder}. Error: {e}")

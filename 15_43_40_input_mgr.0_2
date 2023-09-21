@@ -1,0 +1,1150 @@
+[input_mgr]<8/23  6:46:13.651 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:13.651 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  6:46:13.651 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:13.651 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 14625310
+[input_mgr]<8/23  6:46:13.658 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -1535, accelaration y: 13311, accelaration z: 10495, acc temp: 28 C, light measurement: 0005 mV, battery voltage: 2942 mV
+[input_mgr]<8/23  6:46:13.658 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0005, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  6:46:13.946 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:13.946 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  6:46:13.946 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:13.946 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 14625604
+[input_mgr]<8/23  6:46:15.983 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:15.983 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  6:46:15.983 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:15.983 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 14627641
+[input_mgr]<8/23  6:46:15.274 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:15.274 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  6:46:15.274 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:15.274 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 14627933
+[input_mgr]<8/23  6:46:18.398 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:18.398 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  6:46:18.398 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:18.398 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 14630056
+[input_mgr]<8/23  6:46:18.731 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:18.731 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  6:46:18.731 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:18.731 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 14630389
+[input_mgr]<8/23  6:46:21.130 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:21.130 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Back (0x5150) - hold key: Live TV (0x0283) - up & down - 54.1 RF Remote (0x00) monotime: 14633788
+[input_mgr]<8/23  6:46:22.371 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:22.371 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 1
+[input_mgr]<8/23  6:46:22.371 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 1
+[input_mgr]<8/23  6:46:22.371 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:22.371 -5><common/im_key_logger.c:402> RECEIVED KEY: Back (0x5150) - up & down - 54.1 RF Remote (0x00) monotime: 14634029
+[input_mgr]<8/23  6:46:24.479 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:24.479 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  6:46:24.479 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:24.479 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 14636137
+[input_mgr]<8/23  6:46:24.770 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:24.771 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  6:46:24.771 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:24.771 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 14636429
+[input_mgr]<8/23  6:46:25.083 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:25.083 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  6:46:25.083 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:25.083 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 14637741
+[input_mgr]<8/23  6:46:25.190 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:46:25.190 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:46:25.190 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  6:46:25.298 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:46:25.298 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:46:25.298 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  6:46:26.405 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:46:26.405 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:46:26.405 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  6:46:26.483 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:26.483 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  6:46:26.500 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:26.500 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  6:46:26.500 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:26.500 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 14638158
+[input_mgr]<8/23  6:46:29.526 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:29.526 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 105
+[input_mgr]<8/23  6:46:29.526 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:29.526 -5><common/im_key_logger.c:402> RECEIVED KEY: Left (0x0079) - down - 54.1 RF Remote (0x00) monotime: 14641184
+[input_mgr]<8/23  6:46:29.652 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:29.652 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 105
+[input_mgr]<8/23  6:46:29.652 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:29.652 -5><common/im_key_logger.c:402> RECEIVED KEY: Left (0x0079) - up - 54.1 RF Remote (0x00) monotime: 14641310
+[input_mgr]<8/23  6:46:29.252 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:29.252 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  6:46:29.252 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:29.252 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 14641911
+[input_mgr]<8/23  6:46:30.586 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:30.586 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  6:46:30.586 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  6:46:30.586 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 14642244
+[input_mgr]<8/23  6:46:31.525 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 14592, accelaration y: 7168, accelaration z: 27136, acc temp: 28 C, light measurement: 0006 mV, battery voltage: 3102 mV
+[input_mgr]<8/23  6:46:31.525 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  6:49:07.685 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:49:07.685 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:49:07.685 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  6:52:43.672 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:52:43.672 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:52:43.672 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  6:56:19.658 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:56:19.658 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:56:19.658 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  6:56:31.654 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  6:56:31.654 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  6:56:31.654 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:00:31.642 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:00:31.642 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:00:31.642 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:08:31.617 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:08:31.617 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:08:31.617 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:17:31.570 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:17:31.570 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:17:31.570 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:20:31.564 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:20:31.564 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:20:31.564 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:21:43.565 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:21:43.565 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:21:43.565 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:26:55.556 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:26:55.556 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:26:55.556 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:27:13.924 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:13.924 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 17085583
+[input_mgr]<8/23  7:27:13.930 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -511, accelaration y: 5631, accelaration z: 15871, acc temp: 34 C, light measurement: 0006 mV, battery voltage: 2943 mV
+[input_mgr]<8/23  7:27:13.930 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0004, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:27:13.271 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:13.271 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:27:13.272 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:27:13.272 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:13.272 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 17085930
+[input_mgr]<8/23  7:27:14.939 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:14.939 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 17086597
+[input_mgr]<8/23  7:27:14.230 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:14.230 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:27:14.230 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:27:14.230 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:14.230 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 17086888
+[input_mgr]<8/23  7:27:15.163 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:15.163 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 17087821
+[input_mgr]<8/23  7:27:16.412 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:16.412 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:27:16.412 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:27:16.412 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:27:16.412 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 17088071
+[input_mgr]<8/23  7:32:20.054 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:20.054 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:20.054 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:20.054 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17392712
+[input_mgr]<8/23  7:32:20.345 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:20.345 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:20.345 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:20.345 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17393004
+[input_mgr]<8/23  7:32:22.141 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:22.141 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:22.141 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:22.141 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17394799
+[input_mgr]<8/23  7:32:23.433 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:23.433 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:23.433 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:23.433 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17395091
+[input_mgr]<8/23  7:32:23.274 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 2560, accelaration y: -4864, accelaration z: 18944, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 2942 mV
+[input_mgr]<8/23  7:32:23.274 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  7:32:31.775 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:31.775 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:31.775 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:31.775 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17403434
+[input_mgr]<8/23  7:32:31.147 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:31.148 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:31.148 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:31.148 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17403806
+[input_mgr]<8/23  7:32:33.702 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:33.702 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:33.702 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:33.702 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17405360
+[input_mgr]<8/23  7:32:33.102 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:33.102 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:32:33.122 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:33.122 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:33.122 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:33.122 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17405780
+[input_mgr]<8/23  7:32:33.353 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:32:33.353 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:32:33.353 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:32:37.222 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:37.222 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:37.222 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:37.222 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17409881
+[input_mgr]<8/23  7:32:37.329 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:32:37.329 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:32:37.329 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:32:38.438 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:32:38.438 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:32:38.438 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:32:38.548 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:32:38.548 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:32:38.548 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:32:38.623 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:38.623 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:32:38.639 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:38.639 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:38.639 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:38.639 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17410298
+[input_mgr]<8/23  7:32:47.042 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:47.042 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Back (0x5150) - hold key: Live TV (0x0283) - up & down - 54.1 RF Remote (0x00) monotime: 17419700
+[input_mgr]<8/23  7:32:47.294 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:47.294 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 1
+[input_mgr]<8/23  7:32:47.294 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 1
+[input_mgr]<8/23  7:32:47.294 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:47.294 -5><common/im_key_logger.c:402> RECEIVED KEY: Back (0x5150) - up & down - 54.1 RF Remote (0x00) monotime: 17419953
+[input_mgr]<8/23  7:32:49.207 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:49.207 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:49.207 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:49.207 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17421865
+[input_mgr]<8/23  7:32:50.607 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:50.607 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:32:50.665 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:50.665 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:50.665 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:50.665 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17422324
+[input_mgr]<8/23  7:32:54.535 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:54.535 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:32:54.535 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:54.535 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17426194
+[input_mgr]<8/23  7:32:54.935 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:54.935 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:32:54.036 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:54.036 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:32:54.036 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:32:54.036 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17426694
+[input_mgr]<8/23  7:33:04.664 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:04.664 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:04.665 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:04.665 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17436323
+[input_mgr]<8/23  7:33:04.065 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:04.065 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:33:04.248 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:04.248 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:04.248 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:04.248 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17436907
+[input_mgr]<8/23  7:33:11.785 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 0256, accelaration y: 4608, accelaration z: 22016, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 3050 mV
+[input_mgr]<8/23  7:33:11.785 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000066, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  7:33:14.708 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:14.708 -5><common/im_key_logger.c:402> RECEIVED KEY: Power On (0x0067) - up & down - 54.1 RF Remote (0x00) monotime: 17446366
+[input_mgr]<8/23  7:33:14.711 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:14.711 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 67
+[input_mgr]<8/23  7:33:14.711 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 67
+[input_mgr]<8/23  7:33:14.711 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:14.711 -5><common/im_key_logger.c:402> RECEIVED KEY: SAT (0x5078) - up & down - 54.1 RF Remote (0x00) monotime: 17446370
+[input_mgr]<8/23  7:33:16.965 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:16.965 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:16.965 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:16.965 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17448623
+[input_mgr]<8/23  7:33:17.365 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:17.365 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:33:17.426 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:17.426 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:17.426 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:17.426 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17449085
+[input_mgr]<8/23  7:33:19.535 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:19.535 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:19.535 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:19.535 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17451193
+[input_mgr]<8/23  7:33:19.827 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:19.827 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:19.827 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:19.827 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17451485
+[input_mgr]<8/23  7:33:21.485 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:21.485 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:21.485 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:21.485 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17453143
+[input_mgr]<8/23  7:33:21.885 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:21.885 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:33:21.944 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:21.944 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:21.944 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:21.944 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17453602
+[input_mgr]<8/23  7:33:24.715 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:24.715 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:24.715 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:24.715 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17456373
+[input_mgr]<8/23  7:33:24.115 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:24.115 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:33:24.173 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:24.173 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:24.173 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:24.173 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17456831
+[input_mgr]<8/23  7:33:28.715 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:28.715 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:28.715 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:28.715 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17460374
+[input_mgr]<8/23  7:33:28.794 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 0001, accelaration y: 4863, accelaration z: 17151, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 3050 mV
+[input_mgr]<8/23  7:33:28.794 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:33:28.115 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:28.115 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:33:28.213 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:28.213 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:28.213 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:28.213 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17460871
+[input_mgr]<8/23  7:33:33.891 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:33.891 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:33.891 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:33.891 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17465550
+[input_mgr]<8/23  7:33:33.291 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:33.291 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:33:34.433 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:34.433 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:34.433 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:34.433 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17466091
+[input_mgr]<8/23  7:33:50.575 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:50.575 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:33:50.575 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:50.575 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17482233
+[input_mgr]<8/23  7:33:50.866 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:50.866 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:33:50.866 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:50.866 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17482525
+[input_mgr]<8/23  7:33:51.932 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:51.932 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:33:51.932 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:51.932 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17483590
+[input_mgr]<8/23  7:33:51.182 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:51.182 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:33:51.182 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:51.182 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17483840
+[input_mgr]<8/23  7:33:54.316 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:54.316 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Back (0x5150) - hold key: Live TV (0x0283) - up & down - 54.1 RF Remote (0x00) monotime: 17486974
+[input_mgr]<8/23  7:33:55.523 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:55.524 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 1
+[input_mgr]<8/23  7:33:55.524 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 1
+[input_mgr]<8/23  7:33:55.524 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:55.524 -5><common/im_key_logger.c:402> RECEIVED KEY: Back (0x5150) - up & down - 54.1 RF Remote (0x00) monotime: 17487182
+[input_mgr]<8/23  7:33:56.499 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.499 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:33:56.499 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.499 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17488157
+[input_mgr]<8/23  7:33:56.506 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -2303, accelaration y: 7679, accelaration z: 15359, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 2985 mV
+[input_mgr]<8/23  7:33:56.506 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:33:56.707 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.708 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:33:56.708 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.708 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17488366
+[input_mgr]<8/23  7:33:56.894 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.894 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:33:56.894 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.894 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17488553
+[input_mgr]<8/23  7:33:56.103 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.103 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:33:56.103 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:56.103 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17488761
+[input_mgr]<8/23  7:33:58.447 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:58.447 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:33:58.447 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:58.447 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17490106
+[input_mgr]<8/23  7:33:58.781 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:58.781 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:33:58.781 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:58.781 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17490439
+[input_mgr]<8/23  7:33:59.186 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:59.186 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:33:59.186 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:33:59.186 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17491844
+[input_mgr]<8/23  7:34:00.394 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:00.394 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:34:00.394 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:00.394 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17492052
+[input_mgr]<8/23  7:34:00.662 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:00.662 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:34:00.662 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:00.662 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17492320
+[input_mgr]<8/23  7:34:00.912 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:00.912 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:34:00.912 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:00.912 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17492570
+[input_mgr]<8/23  7:34:01.143 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:01.143 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:34:01.143 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:01.143 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17493801
+[input_mgr]<8/23  7:34:02.476 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:02.476 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:34:02.476 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:02.476 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17494135
+[input_mgr]<8/23  7:34:02.085 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:34:02.085 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:34:02.085 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:34:04.708 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:04.709 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  7:34:04.709 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:04.709 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 17496367
+[input_mgr]<8/23  7:34:04.958 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:04.958 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  7:34:04.959 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:04.959 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 17496617
+[input_mgr]<8/23  7:34:05.036 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:05.036 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:34:05.036 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:05.036 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17497694
+[input_mgr]<8/23  7:34:05.286 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:05.286 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:34:05.286 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:05.286 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17497944
+[input_mgr]<8/23  7:34:07.805 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:07.805 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:34:07.805 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:07.805 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17499463
+[input_mgr]<8/23  7:34:07.811 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -1791, accelaration y: 7935, accelaration z: 14847, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 2985 mV
+[input_mgr]<8/23  7:34:07.811 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:34:07.093 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:07.093 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:34:07.093 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:07.093 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17499752
+[input_mgr]<8/23  7:34:09.984 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:09.984 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:34:09.984 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:09.984 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17501642
+[input_mgr]<8/23  7:34:09.276 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:09.276 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:34:09.276 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:09.276 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17501934
+[input_mgr]<8/23  7:34:36.728 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:36.728 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 32
+[input_mgr]<8/23  7:34:36.728 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 32
+[input_mgr]<8/23  7:34:36.728 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:36.728 -5><common/im_key_logger.c:402> RECEIVED KEY: DVR (0x028b) - up & down - 54.1 RF Remote (0x00) monotime: 17528387
+[input_mgr]<8/23  7:34:38.201 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:38.201 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:34:38.201 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:38.201 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17530860
+[input_mgr]<8/23  7:34:39.410 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:39.410 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:34:39.410 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:39.410 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17531068
+[input_mgr]<8/23  7:34:42.473 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:42.473 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 106
+[input_mgr]<8/23  7:34:42.473 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:42.473 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - down - 54.1 RF Remote (0x00) monotime: 17534131
+[input_mgr]<8/23  7:34:42.723 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:42.723 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 106
+[input_mgr]<8/23  7:34:42.723 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:42.723 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - up - 54.1 RF Remote (0x00) monotime: 17534381
+[input_mgr]<8/23  7:34:44.144 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:44.144 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 106
+[input_mgr]<8/23  7:34:44.144 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:44.144 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - down - 54.1 RF Remote (0x00) monotime: 17536803
+[input_mgr]<8/23  7:34:45.394 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:45.394 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 106
+[input_mgr]<8/23  7:34:45.394 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:45.394 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - up - 54.1 RF Remote (0x00) monotime: 17537053
+[input_mgr]<8/23  7:34:45.693 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:45.693 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 106
+[input_mgr]<8/23  7:34:45.693 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:45.693 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - down - 54.1 RF Remote (0x00) monotime: 17537352
+[input_mgr]<8/23  7:34:45.941 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:45.941 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 106
+[input_mgr]<8/23  7:34:45.941 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:45.941 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - up - 54.1 RF Remote (0x00) monotime: 17537599
+[input_mgr]<8/23  7:34:46.032 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:46.032 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 106
+[input_mgr]<8/23  7:34:46.032 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:46.032 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - down - 54.1 RF Remote (0x00) monotime: 17538690
+[input_mgr]<8/23  7:34:46.198 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:46.198 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 106
+[input_mgr]<8/23  7:34:46.199 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:46.199 -5><common/im_key_logger.c:402> RECEIVED KEY: Right (0x007a) - up - 54.1 RF Remote (0x00) monotime: 17538857
+[input_mgr]<8/23  7:34:47.274 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:47.274 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  7:34:47.274 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:47.274 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 17539932
+[input_mgr]<8/23  7:34:48.524 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:48.524 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  7:34:48.524 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:48.524 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 17540182
+[input_mgr]<8/23  7:34:50.222 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:50.222 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 105
+[input_mgr]<8/23  7:34:50.222 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:50.222 -5><common/im_key_logger.c:402> RECEIVED KEY: Left (0x0079) - down - 54.1 RF Remote (0x00) monotime: 17542880
+[input_mgr]<8/23  7:34:50.228 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -1535, accelaration y: 8703, accelaration z: 14591, acc temp: 32 C, light measurement: 0006 mV, battery voltage: 3112 mV
+[input_mgr]<8/23  7:34:50.228 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:34:51.472 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:51.472 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 105
+[input_mgr]<8/23  7:34:51.472 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:51.472 -5><common/im_key_logger.c:402> RECEIVED KEY: Left (0x0079) - up - 54.1 RF Remote (0x00) monotime: 17543130
+[input_mgr]<8/23  7:34:55.309 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:55.309 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:34:55.309 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:55.309 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17547967
+[input_mgr]<8/23  7:34:56.559 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:56.559 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:34:56.560 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:34:56.560 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17548218
+[input_mgr]<8/23  7:35:00.337 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:00.337 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 103
+[input_mgr]<8/23  7:35:00.337 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:00.337 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - down - 54.1 RF Remote (0x00) monotime: 17552996
+[input_mgr]<8/23  7:35:01.587 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:01.588 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 103
+[input_mgr]<8/23  7:35:01.588 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:01.588 -5><common/im_key_logger.c:402> RECEIVED KEY: Up (0x007b) - up - 54.1 RF Remote (0x00) monotime: 17553246
+[input_mgr]<8/23  7:35:10.431 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:10.431 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  7:35:10.431 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:10.431 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 17562089
+[input_mgr]<8/23  7:35:10.764 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:10.764 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  7:35:10.764 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:10.764 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 17562423
+[input_mgr]<8/23  7:35:24.912 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:24.912 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  7:35:24.912 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:24.912 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 17576571
+[input_mgr]<8/23  7:35:24.312 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:24.312 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23  7:35:24.329 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:24.329 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  7:35:24.329 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:35:24.329 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 17576987
+[input_mgr]<8/23  7:35:26.440 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:35:26.440 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:35:26.440 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:39:18.619 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 0257, accelaration y: 11775, accelaration z: -513, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 2937 mV
+[input_mgr]<8/23  7:39:18.619 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  7:39:22.163 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -7167, accelaration y: 17151, accelaration z: 17407, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 2937 mV
+[input_mgr]<8/23  7:39:22.163 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2645> LQI info for the device_id <0>:
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2666> lqi for the last packet received is 0x68
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2667> average lqi for non-button packets is 0x66
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2668> average lqi for button packets is 0x67
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2669> max lqi is 0x8a
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2670> min lqi is 0x3c
+[input_mgr]<8/23  7:41:10.679 -5><rf_remote/im_beecomm.c:2675> number of missed acks: 0x003d
+[input_mgr]<8/23  7:41:30.436 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 8704, accelaration y: 6144, accelaration z: 19456, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 2940 mV
+[input_mgr]<8/23  7:41:30.436 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  7:50:28.675 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:28.675 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18480333
+[input_mgr]<8/23  7:50:28.892 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 3841, accelaration y: -769, accelaration z: 19455, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 2941 mV
+[input_mgr]<8/23  7:50:28.892 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:50:28.966 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:28.966 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:50:28.966 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:50:28.966 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:28.966 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18480624
+[input_mgr]<8/23  7:50:29.027 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:29.027 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18481685
+[input_mgr]<8/23  7:50:29.235 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:29.235 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:50:29.235 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:50:29.235 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:29.235 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18481893
+[input_mgr]<8/23  7:50:31.598 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:31.598 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18483256
+[input_mgr]<8/23  7:50:31.805 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:31.805 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:50:31.805 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:50:31.805 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:31.805 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18483463
+[input_mgr]<8/23  7:50:34.327 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:34.327 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18486986
+[input_mgr]<8/23  7:50:35.660 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:35.660 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:50:35.660 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:50:35.660 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:35.660 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18487319
+[input_mgr]<8/23  7:50:38.630 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:38.630 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18490289
+[input_mgr]<8/23  7:50:38.921 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:38.921 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:50:38.921 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:50:38.921 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:50:38.921 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18490579
+[input_mgr]<8/23  7:55:14.383 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  7:55:14.383 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  7:55:14.383 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  7:56:00.856 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:00.856 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18812514
+[input_mgr]<8/23  7:56:00.133 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:00.133 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:00.133 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:00.133 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:00.133 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18812791
+[input_mgr]<8/23  7:56:01.809 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:01.809 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18813467
+[input_mgr]<8/23  7:56:01.815 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -5887, accelaration y: 5631, accelaration z: 14591, acc temp: 29 C, light measurement: 0006 mV, battery voltage: 2937 mV
+[input_mgr]<8/23  7:56:01.815 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  7:56:01.100 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:01.100 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:01.100 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:01.100 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:01.100 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18813758
+[input_mgr]<8/23  7:56:02.055 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:02.055 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18814713
+[input_mgr]<8/23  7:56:02.298 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:02.298 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:02.298 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:02.298 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:02.298 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18814957
+[input_mgr]<8/23  7:56:05.207 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:05.207 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18817866
+[input_mgr]<8/23  7:56:06.456 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:06.456 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:06.456 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:06.456 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:06.456 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18818115
+[input_mgr]<8/23  7:56:10.946 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:10.946 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18822604
+[input_mgr]<8/23  7:56:10.195 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:10.195 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:10.195 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:10.195 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:10.195 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18822854
+[input_mgr]<8/23  7:56:14.238 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:14.238 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18826896
+[input_mgr]<8/23  7:56:15.529 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:15.529 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:15.529 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:15.529 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:15.529 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18827187
+[input_mgr]<8/23  7:56:21.000 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:21.000 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18833658
+[input_mgr]<8/23  7:56:21.332 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:21.332 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:21.332 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:21.332 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:21.332 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18833990
+[input_mgr]<8/23  7:56:26.533 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:26.533 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18838191
+[input_mgr]<8/23  7:56:26.865 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:26.865 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:26.865 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:26.865 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:26.866 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18838524
+[input_mgr]<8/23  7:56:26.132 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 2560, accelaration y: 6656, accelaration z: 22272, acc temp: 29 C, light measurement: 0006 mV, battery voltage: 3108 mV
+[input_mgr]<8/23  7:56:26.132 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  7:56:45.903 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:45.904 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 18857562
+[input_mgr]<8/23  7:56:45.195 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:45.195 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  7:56:45.195 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  7:56:45.195 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:45.195 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 18857853
+[input_mgr]<8/23  7:56:49.360 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:49.360 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Skip Back (0x01ac) - hold key: Rewind (0x0050) - up & down - 54.1 RF Remote (0x00) monotime: 18861019
+[input_mgr]<8/23  7:56:49.651 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:49.651 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 26
+[input_mgr]<8/23  7:56:49.651 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 26
+[input_mgr]<8/23  7:56:49.651 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:49.651 -5><common/im_key_logger.c:402> RECEIVED KEY: Skip Back (0x01ac) - up & down - 54.1 RF Remote (0x00) monotime: 18861310
+[input_mgr]<8/23  7:56:50.680 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:50.680 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Skip Back (0x01ac) - hold key: Rewind (0x0050) - up & down - 54.1 RF Remote (0x00) monotime: 18862338
+[input_mgr]<8/23  7:56:50.012 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:50.012 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 26
+[input_mgr]<8/23  7:56:50.012 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 26
+[input_mgr]<8/23  7:56:50.012 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  7:56:50.012 -5><common/im_key_logger.c:402> RECEIVED KEY: Skip Back (0x01ac) - up & down - 54.1 RF Remote (0x00) monotime: 18862671
+[input_mgr]<8/23  8:00:25.657 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -5375, accelaration y: 6143, accelaration z: 4351, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 2932 mV
+[input_mgr]<8/23  8:00:25.657 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0004, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:02:55.276 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:55.277 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19227935
+[input_mgr]<8/23  8:02:56.525 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:56.526 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:02:56.526 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:02:56.526 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:56.526 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19228184
+[input_mgr]<8/23  8:02:56.179 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:56.179 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19228837
+[input_mgr]<8/23  8:02:57.429 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:57.429 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:02:57.429 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:02:57.429 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:57.430 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19229088
+[input_mgr]<8/23  8:02:58.611 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:58.611 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19230270
+[input_mgr]<8/23  8:02:58.819 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:58.819 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:02:58.819 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:02:58.819 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:02:58.819 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19230477
+[input_mgr]<8/23  8:03:27.967 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:03:27.967 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19259625
+[input_mgr]<8/23  8:03:27.033 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -11007, accelaration y: 4351, accelaration z: 13055, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 3112 mV
+[input_mgr]<8/23  8:03:27.033 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000066, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  8:03:27.300 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:03:27.300 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:03:27.300 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:03:27.300 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:03:27.300 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19259958
+[input_mgr]<8/23  8:04:39.384 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 11264, accelaration y: -3584, accelaration z: 15616, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 2936 mV
+[input_mgr]<8/23  8:04:39.384 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:10:25.329 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  8:10:25.329 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  8:10:25.329 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  8:10:26.696 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:26.696 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19678354
+[input_mgr]<8/23  8:10:26.070 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:26.070 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:10:26.070 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:10:26.070 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:26.070 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19678729
+[input_mgr]<8/23  8:10:27.569 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:27.569 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19679227
+[input_mgr]<8/23  8:10:27.575 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -4607, accelaration y: 4095, accelaration z: 16383, acc temp: 29 C, light measurement: 0006 mV, battery voltage: 2933 mV
+[input_mgr]<8/23  8:10:27.575 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  8:10:27.943 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:27.943 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:10:27.943 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:10:27.943 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:27.943 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19679602
+[input_mgr]<8/23  8:10:30.520 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:30.520 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19682178
+[input_mgr]<8/23  8:10:30.771 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:30.771 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:10:30.771 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:10:30.771 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:30.771 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19682430
+[input_mgr]<8/23  8:10:35.323 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:35.323 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19687982
+[input_mgr]<8/23  8:10:36.614 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:36.614 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:10:36.614 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:10:36.614 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:10:36.614 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19688272
+[input_mgr]<8/23  8:11:20.151 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:11:20.151 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 19732809
+[input_mgr]<8/23  8:11:21.483 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:11:21.483 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:11:21.483 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:11:21.483 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:11:21.483 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 19733142
+[input_mgr]<8/23  8:11:25.881 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -1024, accelaration y: 1024, accelaration z: 17152, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 3111 mV
+[input_mgr]<8/23  8:11:25.881 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:17:17.545 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -2815, accelaration y: 6655, accelaration z: 18943, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 2944 mV
+[input_mgr]<8/23  8:17:17.545 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:17:30.877 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:30.877 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 20102536
+[input_mgr]<8/23  8:17:30.210 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:30.210 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:17:30.210 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:17:30.210 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:30.210 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 20102868
+[input_mgr]<8/23  8:17:32.384 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:32.385 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 20104043
+[input_mgr]<8/23  8:17:32.590 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:32.590 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:17:32.590 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:17:32.590 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:32.590 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 20104249
+[input_mgr]<8/23  8:17:34.494 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:34.495 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 20106153
+[input_mgr]<8/23  8:17:34.744 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:34.744 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:17:34.745 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:17:34.745 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:34.745 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 20106403
+[input_mgr]<8/23  8:17:37.960 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:37.960 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 20109618
+[input_mgr]<8/23  8:17:37.251 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:37.251 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:17:37.251 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:17:37.251 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:37.251 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 20109909
+[input_mgr]<8/23  8:17:43.867 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:43.867 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 20115525
+[input_mgr]<8/23  8:17:43.158 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:43.158 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:17:43.158 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:17:43.158 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:43.158 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 20115816
+[input_mgr]<8/23  8:17:47.096 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:47.096 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 20119755
+[input_mgr]<8/23  8:17:47.346 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:47.346 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:17:47.346 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:17:47.346 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:17:47.346 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 20120004
+[input_mgr]<8/23  8:19:16.824 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 7936, accelaration y: 5632, accelaration z: 8448, acc temp: 30 C, light measurement: 0007 mV, battery voltage: 2973 mV
+[input_mgr]<8/23  8:19:16.824 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000065, light min val: 0006, light avg val: 0007, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:25:20.782 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:20.782 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  8:25:20.782 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:20.782 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 20572440
+[input_mgr]<8/23  8:25:20.115 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:20.115 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  8:25:20.115 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:20.115 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 20572773
+[input_mgr]<8/23  8:25:21.326 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:21.326 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  8:25:21.326 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:21.326 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 20573985
+[input_mgr]<8/23  8:25:22.534 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:22.534 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  8:25:22.534 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:22.535 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 20574193
+[input_mgr]<8/23  8:25:22.687 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:22.687 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  8:25:22.687 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:22.687 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 20574345
+[input_mgr]<8/23  8:25:22.895 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:22.895 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  8:25:22.895 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:22.895 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 20574553
+[input_mgr]<8/23  8:25:23.052 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:23.052 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  8:25:23.052 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:23.052 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 20575711
+[input_mgr]<8/23  8:25:23.344 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:23.344 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  8:25:23.344 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:23.344 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 20576002
+[input_mgr]<8/23  8:25:25.137 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:25.137 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  8:25:25.137 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:25.137 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 20577795
+[input_mgr]<8/23  8:25:25.223 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -4095, accelaration y: 11263, accelaration z: 12287, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 3111 mV
+[input_mgr]<8/23  8:25:25.223 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  8:25:26.429 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:26.429 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  8:25:26.429 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:26.429 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 20578087
+[input_mgr]<8/23  8:25:26.288 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  8:25:26.288 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  8:25:26.288 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  8:25:27.876 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:27.876 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  8:25:27.876 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:27.876 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 20579535
+[input_mgr]<8/23  8:25:27.044 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:27.044 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  8:25:27.044 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:27.044 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 20579702
+[input_mgr]<8/23  8:25:28.079 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:28.079 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  8:25:28.079 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:28.079 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 20580737
+[input_mgr]<8/23  8:25:29.413 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:29.413 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  8:25:29.413 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:29.413 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 20581071
+[input_mgr]<8/23  8:25:30.133 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:30.133 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  8:25:30.133 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:30.133 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 20582791
+[input_mgr]<8/23  8:25:31.425 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:31.425 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  8:25:31.425 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:31.425 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 20583083
+[input_mgr]<8/23  8:25:32.075 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:32.075 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  8:25:32.075 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:32.075 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 20584733
+[input_mgr]<8/23  8:25:32.200 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:32.200 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  8:25:32.200 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:32.200 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 20584858
+[input_mgr]<8/23  8:25:36.313 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:36.313 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Back (0x5150) - hold key: Live TV (0x0283) - up & down - 54.1 RF Remote (0x00) monotime: 20588972
+[input_mgr]<8/23  8:25:37.524 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:37.524 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 1
+[input_mgr]<8/23  8:25:37.524 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 1
+[input_mgr]<8/23  8:25:37.524 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:37.524 -5><common/im_key_logger.c:402> RECEIVED KEY: Back (0x5150) - up & down - 54.1 RF Remote (0x00) monotime: 20589182
+[input_mgr]<8/23  8:25:44.381 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -6144, accelaration y: 10240, accelaration z: 9216, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 3085 mV
+[input_mgr]<8/23  8:25:44.381 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:25:44.583 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:44.583 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 34
+[input_mgr]<8/23  8:25:44.583 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 34
+[input_mgr]<8/23  8:25:44.583 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:44.583 -5><common/im_key_logger.c:402> RECEIVED KEY: Guide (0x0282) - up & down - 54.1 RF Remote (0x00) monotime: 20596241
+[input_mgr]<8/23  8:25:48.767 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:48.767 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  8:25:48.767 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:48.767 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 20600426
+[input_mgr]<8/23  8:25:48.018 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:48.018 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  8:25:48.018 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:25:48.018 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 20600676
+[input_mgr]<8/23  8:26:05.877 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:05.877 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 32
+[input_mgr]<8/23  8:26:05.878 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 32
+[input_mgr]<8/23  8:26:05.878 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:05.878 -5><common/im_key_logger.c:402> RECEIVED KEY: DVR (0x028b) - up & down - 54.1 RF Remote (0x00) monotime: 20617536
+[input_mgr]<8/23  8:26:17.431 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:17.431 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 11
+[input_mgr]<8/23  8:26:17.431 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 11
+[input_mgr]<8/23  8:26:17.432 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:17.432 -5><common/im_key_logger.c:402> RECEIVED KEY: 0 (0x0002) - up & down - 54.1 RF Remote (0x00) monotime: 20629090
+[input_mgr]<8/23  8:26:17.438 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 0769, accelaration y: 6655, accelaration z: 15359, acc temp: 30 C, light measurement: 0006 mV, battery voltage: 3039 mV
+[input_mgr]<8/23  8:26:17.438 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23  8:26:21.333 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:21.333 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 34
+[input_mgr]<8/23  8:26:21.333 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 34
+[input_mgr]<8/23  8:26:21.333 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:21.333 -5><common/im_key_logger.c:402> RECEIVED KEY: Guide (0x0282) - up & down - 54.1 RF Remote (0x00) monotime: 20633992
+[input_mgr]<8/23  8:26:29.181 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:29.181 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23  8:26:29.181 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:29.181 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 20641839
+[input_mgr]<8/23  8:26:30.431 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:30.431 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23  8:26:30.431 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:30.431 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 20642089
+[input_mgr]<8/23  8:26:31.357 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:31.357 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23  8:26:31.357 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:31.357 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 20644015
+[input_mgr]<8/23  8:26:32.649 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:32.649 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23  8:26:32.649 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:26:32.649 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 20644307
+[input_mgr]<8/23  8:26:33.464 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 7169, accelaration y: 3839, accelaration z: 5887, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 3083 mV
+[input_mgr]<8/23  8:26:33.464 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:33:33.765 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  8:33:33.765 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  8:33:33.765 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2645> LQI info for the device_id <0>:
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2666> lqi for the last packet received is 0x7e
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2667> average lqi for non-button packets is 0x6b
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2668> average lqi for button packets is 0x65
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2669> max lqi is 0x8a
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2670> min lqi is 0x3c
+[input_mgr]<8/23  8:41:11.103 -5><rf_remote/im_beecomm.c:2675> number of missed acks: 0x0041
+[input_mgr]<8/23  8:53:00.785 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:00.785 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 22232444
+[input_mgr]<8/23  8:53:00.118 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:00.118 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:53:00.118 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:53:00.118 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:00.118 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 22232776
+[input_mgr]<8/23  8:53:01.169 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:01.169 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 22233827
+[input_mgr]<8/23  8:53:01.334 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:01.334 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:53:01.334 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:53:01.335 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:01.335 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 22233993
+[input_mgr]<8/23  8:53:03.733 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:03.733 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 22235391
+[input_mgr]<8/23  8:53:03.190 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:03.190 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:53:03.190 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:53:03.190 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:03.190 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 22235848
+[input_mgr]<8/23  8:53:05.591 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:05.591 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 22237249
+[input_mgr]<8/23  8:53:05.006 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:05.006 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23  8:53:05.006 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23  8:53:05.006 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:53:05.006 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 22237665
+[input_mgr]<8/23  8:53:05.321 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 3072, accelaration y: 4096, accelaration z: 12544, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 3108 mV
+[input_mgr]<8/23  8:53:05.321 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:53:45.638 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  8:53:45.638 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  8:53:45.638 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  8:59:36.528 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:36.528 -5><rf_remote/im_handle_cmd.c:2117> IR Pressed sent from device 0: mode 1, key 6
+[input_mgr]<8/23  8:59:36.528 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:36.528 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 20
+[input_mgr]<8/23  8:59:36.528 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 20
+[input_mgr]<8/23  8:59:36.018 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 2048, accelaration y: 1792, accelaration z: 19712, acc temp: 31 C, light measurement: 0006 mV, battery voltage: 3113 mV
+[input_mgr]<8/23  8:59:36.018 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23  8:59:36.137 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:36.137 -5><common/im_key_logger.c:402> RECEIVED KEY: Power Home (0x515e) - up & down - 54.1 RF Remote (0x00) monotime: 22628795
+[input_mgr]<8/23  8:59:36.140 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:36.140 -5><rf_remote/im_handle_cmd.c:2058> Remote active sent from device 0: mode 1, key 6
+[input_mgr]<8/23  8:59:56.603 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:56.603 -5><rf_remote/im_handle_cmd.c:2117> IR Pressed sent from device 0: mode 1, key 6
+[input_mgr]<8/23  8:59:56.604 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:56.604 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 20
+[input_mgr]<8/23  8:59:56.604 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 20
+[input_mgr]<8/23  8:59:56.212 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:56.212 -5><common/im_key_logger.c:402> RECEIVED KEY: Power Home (0x515e) - up & down - 54.1 RF Remote (0x00) monotime: 22648870
+[input_mgr]<8/23  8:59:56.215 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23  8:59:56.215 -5><rf_remote/im_handle_cmd.c:2058> Remote active sent from device 0: mode 1, key 6
+[input_mgr]<8/23  9:03:09.616 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  9:03:09.616 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5d 0x01 
+[input_mgr]<8/23  9:03:09.616 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  9:05:01.858 -5><common/im_sgs_rc_cmds.c:2202> Enter handle_sgs_messages_cb()
+[input_mgr]<8/23  9:05:01.858 -5><common/im_sgs_rc_cmds.c:2245> handle_sgs_messages_cb(): Received msg <47>
+[input_mgr]<8/23  9:05:01.858 -5><common/im_sgs_rc_cmds.c:809> Received set_stb_display_state with state: <1>
+[input_mgr]<8/23  9:05:01.858 -5><common/im_sgs_rc_cmds.c:312> im_send_sgsmsg_to_svc: Successfully sent SGS Msg to Service(0x7fe01470)
+[input_mgr]<8/23  9:05:01.858 -5><common/input_mgr.c:843> entering standby -- tv val: 1, monotime: 22953517
+[input_mgr]<8/23  9:05:01.859 -5><rf_remote/im_rf_firmware_dl.c:253> No remote firmware update needed for remote 0 because the firmware on the remote matches the firmware on the STB
+[input_mgr]<8/23  9:05:01.859 -5><rf_remote/im_backup_restore.c:787> Starting im_perform_auto_backup for device id 0
+[input_mgr]<8/23  9:05:01.859 -5><rf_remote/im_backup_restore.c:1117> Backup Timestamp of device id 0 : 7:31 on 8/18/2023 
+[input_mgr]<8/23  9:05:01.859 -5><rf_remote/im_backup_restore.c:1131> Last backup: Seconds 1692343860, Today: Seconds 1692781501 
+[input_mgr]<8/23  9:05:01.859 -5><rf_remote/im_backup_restore.c:1132> Days since last backup: 5
+[input_mgr]<8/23  9:05:01.860 -5><rf_remote/im_handle_cmd.c:2818> update_stb_state(): stb_state[0] = 0
+[input_mgr]<8/23  9:11:39.597 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  9:11:39.597 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23  9:11:39.597 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23  9:27:39.553 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23  9:27:39.553 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23  9:27:39.553 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 10:00:09.461 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 10:00:09.461 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 10:00:09.461 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 10:12:52.638 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -255, accelaration y: -2049, accelaration z: 16895, acc temp: 21 C, light measurement: 0028 mV, battery voltage: 3145 mV
+[input_mgr]<8/23 10:12:52.638 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000178, light min val: 0017, light avg val: 0024, mid battery voltage: 0000 mV, event: 0
+[input_mgr]<8/23 11:00:38.172 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 11:00:38.172 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 11:00:38.172 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 11:05:08.163 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 11:05:08.163 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 11:05:08.163 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 11:15:38.124 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 11:15:38.124 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 11:15:38.124 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 11:34:08.039 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 11:34:08.039 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 11:34:08.039 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 11:41:08.987 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 11:41:08.987 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 11:41:08.987 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 12:00:08.903 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 12:00:08.903 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 12:00:08.903 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 12:12:51.051 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -255, accelaration y: -1793, accelaration z: 17151, acc temp: 21 C, light measurement: 0089 mV, battery voltage: 3144 mV
+[input_mgr]<8/23 12:12:51.051 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000179, light min val: 0083, light avg val: 0088, mid battery voltage: 0000 mV, event: 0
+[input_mgr]<8/23 12:19:38.826 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 12:19:38.826 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 12:19:38.826 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 12:29:08.784 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 12:29:08.784 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 12:29:08.784 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 12:31:08.786 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 12:31:08.786 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 12:31:08.786 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 12:41:12.833 -5><common/input_mgr.c:613> lqi during standby
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2645> LQI info for the device_id <0>:
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2666> lqi for the last packet received is 0x80
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2667> average lqi for non-button packets is 0x7c
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2668> average lqi for button packets is 0x66
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2669> max lqi is 0x8a
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2670> min lqi is 0x3c
+[input_mgr]<8/23 12:41:12.837 -5><rf_remote/im_beecomm.c:2675> number of missed acks: 0x004f
+[input_mgr]<8/23 12:48:08.654 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 12:48:08.654 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 12:48:08.654 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:15:38.498 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 13:15:38.498 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 13:15:38.498 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:18:38.489 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 13:18:38.489 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 13:18:38.489 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:21:38.461 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 13:21:38.461 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 13:21:38.461 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:37:38.410 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 13:37:38.410 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 13:37:38.410 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:53:37.335 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 13:53:37.335 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 13:53:37.335 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:57:07.319 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 13:57:07.319 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 13:57:07.319 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 13:58:10.584 -5><common/im_client_msgs.c:1226> received message im_msg_DisplayState (42) from service STBCTRL
+[input_mgr]<8/23 13:59:00.940 -5><common/im_client_msgs.c:1226> received message im_msg_DisplayState (42) from service STBCTRL
+[input_mgr]<8/23 14:27:50.311 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -255, accelaration y: -2049, accelaration z: 16895, acc temp: 19 C, light measurement: 0112 mV, battery voltage: 3144 mV
+[input_mgr]<8/23 14:27:50.311 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000178, light min val: 0105, light avg val: 0111, mid battery voltage: 0000 mV, event: 0
+[input_mgr]<8/23 14:38:37.090 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 14:38:37.090 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 14:38:37.090 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 15:32:07.865 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 15:32:07.865 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 15:32:07.865 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 16:00:07.799 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 16:00:07.799 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 16:00:07.799 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 16:27:39.890 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 0000, accelaration y: -1536, accelaration z: 17152, acc temp: 17 C, light measurement: 0007 mV, battery voltage: 2899 mV
+[input_mgr]<8/23 16:27:39.890 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000066, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23 16:29:07.680 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 16:29:07.680 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 16:29:07.680 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 16:29:37.684 -5><rf_remote/im_handle_cmd.c:3141> Error-the following command failed <0xe3>:
+[input_mgr]<8/23 16:29:37.684 -5><common/im_utils.c:464> Error-0x51 0x50 0x00 0x01 0x5e 0x00 
+[input_mgr]<8/23 16:29:37.684 -5><common/im_utils.c:479> Error-
+[input_mgr]<8/23 16:33:47.519 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:33:47.519 -5><rf_remote/im_handle_cmd.c:2117> IR Pressed sent from device 0: mode 1, key 6
+[input_mgr]<8/23 16:33:47.520 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:33:47.520 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 20
+[input_mgr]<8/23 16:33:47.520 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 20
+[input_mgr]<8/23 16:33:48.802 -5><rf_remote/im_handle_cmd.c:2818> update_stb_state(): stb_state[0] = 3
+[input_mgr]<8/23 16:33:48.802 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:33:48.802 -5><common/im_key_logger.c:402> RECEIVED KEY: Power Home (0x515e) - up & down - 54.1 RF Remote (0x00) monotime: 49880461
+[input_mgr]<8/23 16:33:48.806 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:33:48.806 -5><rf_remote/im_handle_cmd.c:2058> Remote active sent from device 0: mode 1, key 6
+[input_mgr]<8/23 16:33:50.913 -5><common/im_sgs_rc_cmds.c:2202> Enter handle_sgs_messages_cb()
+[input_mgr]<8/23 16:33:50.913 -5><common/im_sgs_rc_cmds.c:2245> handle_sgs_messages_cb(): Received msg <47>
+[input_mgr]<8/23 16:33:50.913 -5><common/im_sgs_rc_cmds.c:809> Received set_stb_display_state with state: <0>
+[input_mgr]<8/23 16:33:50.913 -5><common/im_sgs_rc_cmds.c:312> im_send_sgsmsg_to_svc: Successfully sent SGS Msg to Service(0x7fe01470)
+[input_mgr]<8/23 16:33:50.913 -5><common/input_mgr.c:926> exiting standby -- tv val: 1, monotime: 49882572
+[input_mgr]<8/23 16:33:50.913 -5><common/im_key_logger.c:256> Opened file /mnt/MISC_HD/input_mgr_data/im_key_log used for logging keys
+[input_mgr]<8/23 16:33:50.914 -5><rf_remote/im_handle_cmd.c:2818> update_stb_state(): stb_state[0] = 1
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2645> LQI info for the device_id <0>:
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2666> lqi for the last packet received is 0x5c
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2667> average lqi for non-button packets is 0x76
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2668> average lqi for button packets is 0x66
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2669> max lqi is 0x8a
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2670> min lqi is 0x3c
+[input_mgr]<8/23 16:33:51.532 -5><rf_remote/im_beecomm.c:2675> number of missed acks: 0x005b
+[input_mgr]<8/23 16:33:51.568 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -29440, accelaration y: -512, accelaration z: 11520, acc temp: 18 C, light measurement: 0006 mV, battery voltage: 2902 mV
+[input_mgr]<8/23 16:33:51.568 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0005, light avg val: 0006, mid battery voltage: 0000 mV, event: 2
+[input_mgr]<8/23 16:33:51.903 -5><common/im_client_msgs.c:1226> received message im_msg_DisplayState (42) from service STBCTRL
+[input_mgr]<8/23 16:34:08.346 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:08.346 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 34
+[input_mgr]<8/23 16:34:08.346 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 34
+[input_mgr]<8/23 16:34:08.346 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:08.346 -5><common/im_key_logger.c:402> RECEIVED KEY: Guide (0x0282) - up & down - 54.1 RF Remote (0x00) monotime: 49901005
+[input_mgr]<8/23 16:34:15.780 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:15.780 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 32
+[input_mgr]<8/23 16:34:15.780 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 32
+[input_mgr]<8/23 16:34:15.780 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:15.780 -5><common/im_key_logger.c:402> RECEIVED KEY: DVR (0x028b) - up & down - 54.1 RF Remote (0x00) monotime: 49907438
+[input_mgr]<8/23 16:34:17.336 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:17.336 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 108
+[input_mgr]<8/23 16:34:17.336 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:17.336 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - down - 54.1 RF Remote (0x00) monotime: 49909994
+[input_mgr]<8/23 16:34:18.586 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:18.586 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 108
+[input_mgr]<8/23 16:34:18.586 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:18.586 -5><common/im_key_logger.c:402> RECEIVED KEY: Down (0x0078) - up - 54.1 RF Remote (0x00) monotime: 49910244
+[input_mgr]<8/23 16:34:25.633 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:25.633 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23 16:34:25.634 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:25.634 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 49917292
+[input_mgr]<8/23 16:34:25.034 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:25.034 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23 16:34:25.134 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:25.134 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23 16:34:25.134 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:25.134 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 49917792
+[input_mgr]<8/23 16:34:32.890 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:32.890 -5><common/im_uinput.c:678> uinput_write to keyboard - Down: 28
+[input_mgr]<8/23 16:34:32.890 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:32.890 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - down - 54.1 RF Remote (0x00) monotime: 49924549
+[input_mgr]<8/23 16:34:32.957 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: -1535, accelaration y: 7167, accelaration z: 15359, acc temp: 18 C, light measurement: 0007 mV, battery voltage: 3097 mV
+[input_mgr]<8/23 16:34:32.957 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000065, light min val: 0006, light avg val: 0007, mid battery voltage: 0000 mV, event: 1
+[input_mgr]<8/23 16:34:32.290 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:32.290 -5><common/im_uinput.c:691> uinput_write to keyboard - uinput_code: 28
+[input_mgr]<8/23 16:34:32.307 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:32.307 -5><common/im_uinput.c:682> uinput_write to keyboard - Up: 28
+[input_mgr]<8/23 16:34:32.307 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:32.307 -5><common/im_key_logger.c:402> RECEIVED KEY: Enter (0x00fd) - up - 54.1 RF Remote (0x00) monotime: 49924965
+[input_mgr]<8/23 16:34:37.341 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:37.341 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 49930000
+[input_mgr]<8/23 16:34:38.632 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:38.632 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23 16:34:38.632 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23 16:34:38.633 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:38.633 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 49930291
+[input_mgr]<8/23 16:34:39.010 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:39.010 -5><common/im_key_logger.c:402> RECEIVED KEY: Press & Hold (0x515d) - short key: Step Forward (0x01ad) - hold key: Fast Forward (0x0046) - up & down - 54.1 RF Remote (0x00) monotime: 49931668
+[input_mgr]<8/23 16:34:39.259 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:39.259 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 27
+[input_mgr]<8/23 16:34:39.259 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 27
+[input_mgr]<8/23 16:34:39.259 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:34:39.259 -5><common/im_key_logger.c:402> RECEIVED KEY: Step Forward (0x01ad) - up & down - 54.1 RF Remote (0x00) monotime: 49931917
+[input_mgr]<8/23 16:38:01.006 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:38:01.006 -5><common/im_uinput.c:686> uinput_write to keyboard - Down: 37
+[input_mgr]<8/23 16:38:01.006 -5><common/im_uinput.c:687> uinput_write to keyboard - Up: 37
+[input_mgr]<8/23 16:38:01.006 -5><common/im_messages.c:376> disable_log = 1
+[input_mgr]<8/23 16:38:01.006 -5><common/im_key_logger.c:402> RECEIVED KEY: Pause/Play (0x50e3) - up & down - 54.1 RF Remote (0x00) monotime: 50133664
+[input_mgr]<8/23 16:38:03.730 -5><rf_remote/im_handle_cmd.c:2098> device[0] accelaration x: 6400, accelaration y: -2048, accelaration z: 28416, acc temp: 20 C, light measurement: 0015 mV, battery voltage: 2904 mV
+[input_mgr]<8/23 16:38:03.730 -5><rf_remote/im_handle_cmd.c:2101> device[0] backlight duration: 3, read time: 0000000000, light min val: 0007, light avg val: 0010, mid battery voltage: 0000 mV, event: 2
